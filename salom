@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>java script</title>
+    </head>
+    <body>
+        <label id="myLabel"></label>
+        <input type="text" id="myText" value="qandaydir text">
+        <button id="start">start</button>
+        <button id="stop">stop</button>
+        <script type="text/javascript">
+            var myLabel = document.getElementById('myLabel');
+            var myText = document.getElementById('myText');
+
+            var textLength = 0;
+            var textInterval;
+
+            function stopText()
+            {
+
+            }
+            function startText(salom, hello)
+            {
+                myLabel = substirng
+
+            }
+            function playText()
+            {
+                textLength = 0;
+                console.log(myText.value);
+                textInterval = setInterval(startText, 1000);
+
+            }
+
+            start.onclick = function() {playText();}
+            
+
+
+
+        </script>
+    </body>
+</html>
